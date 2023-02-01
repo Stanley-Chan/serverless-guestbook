@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://cloud.ibm.com/functions/details/sequence/yisiang.chan%2540gmail.com_dev/guestbook';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/yisiang.chan%40gmail.com_dev/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
